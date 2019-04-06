@@ -1,0 +1,84 @@
+{
+    "list": [
+        {
+            "firstName": "Priyanka",
+            "lastName": "Bhiogade",
+            "city": "Lakhani",
+            "mono": "7588789864",
+            "state": "Maharastra",
+            "DOB": "11-11-1996"
+        },
+        {
+            "firstName": "Pornima",
+            "lastName": "Patel",
+            "city": "Bhandara",
+            "mono": "1523698745",
+            "state": "Maharastra",
+            "DOB": "02-02-1994"
+        },
+        {
+            "firstName": "Megha",
+            "lastName": "Koushik",
+            "city": "Bhopal",
+            "mono": "7585746398",
+            "state": "MP",
+            "DOB": "05-04-1997"
+        },
+        {
+            "firstName": "Ram",
+            "lastName": "Girepunje",
+            "city": "Lakhani",
+            "mono": "7588789861",
+            "state": "Maharastra",
+            "DOB": "09-09-1991"
+        },
+        {
+            "firstName": "Pallavi",
+            "lastName": "Suakre",
+            "city": "Chandrapur",
+            "mono": "8554536972",
+            "state": "Maharastra",
+            "DOB": "11-12-1995"
+        },
+        {
+            "firstName": "Neha",
+            "lastName": "kakkar",
+            "city": "Mumbai",
+            "mono": "7588789864",
+            "state": "Maharastra",
+            "DOB": "09-07-1995"
+        },
+        {
+            "firstName": "Vaishanavi",
+            "lastName": "Rokde",
+            "city": "Lakhani",
+            "mono": "7588789864",
+            "state": "Maharastra",
+            "DOB": "11-05-1990"
+        },
+        {
+            "firstName": "Snehal",
+            "lastName": "patil",
+            "city": "Nashik",
+            "mono": "7588789864",
+            "state": "Maharastra",
+            "DOB": "11-11-1996"
+        },
+        {
+            "firstName": "Megha",
+            "lastName": "Koushik",
+            "city": "Lakhani",
+            "mono": "7588789864",
+            "state": "Maharastra",
+            "DOB": "11-11-1996"
+        },
+        {
+            "firstName": "Gita",
+            "lastName": "Sharma",
+            "city": "Lakhani",
+            "mono": "7588789864",
+            "state": "CG",
+            "DOB": "11-11-1993"
+        }
+    ]
+}
