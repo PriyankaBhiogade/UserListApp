@@ -36,7 +36,7 @@ export default class Information extends Component {
                     <Text style={styles.userItem}>{lastName}</Text>
                     <Text style={styles.userItem}>{mobileNumber}</Text>
                     <Text style={styles.userItem}>{city}</Text>
-                  <Text style={styles.userItem}>{state}</Text>
+                    <Text style={styles.userItem}>{state}</Text>
                     <Text style={styles.userItem}>{DOB}</Text>
                    
                 </View>
